@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Spine Condition Classification
 
 This project utilizes machine learning models to predict whether a person's spine condition is normal or abnormal based on physical measurements of the spine. It aims to aid in identifying individuals at risk of lower back pain (LBP) using easily obtainable physical data.
